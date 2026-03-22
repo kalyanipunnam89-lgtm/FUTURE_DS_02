@@ -1,22 +1,17 @@
-# Marketing Funnel Analysis - Task 2
+# Customer Retention & Churn Analysis
 
-## 📊 Project Overview
-This project analyzes marketing funnel data to identify:
-- Lead conversion stages
-- Drop-off points
-- Conversion rates
+## Objective
+Analyze customer churn and retention patterns.
 
-## 🛠 Tools Used
-- Excel
+## Tools Used
+Python, Pandas, Matplotlib
 
-## 📁 Files
-- Dataset (Excel file)
-- Dashboard / Chart Screenshot
+## Key Insights
+- Churn rate is high among new customers
+- Premium users retain longer
+- Customers with high charges churn more
 
-## 📈 Insights
-- Conversion drop-offs identified
-- Funnel stages analyzed
-- Key improvement areas found
-
-## ✅ Conclusion
-This project helps improve marketing strategies by identifying where customers drop off in the funnel.
+## Recommendations
+- Offer discounts for new users
+- Improve customer support
+- Provide loyalty rewards
