@@ -1,4 +1,4 @@
-# Customer Retention & Churn Analysis Task 2
+# Customer Retention & Churn Analysis - Task 2
 
 ## Objective
 Analyze customer churn and retention patterns.
